@@ -5,4 +5,7 @@ wwStu
 122
 master
 
-void func();
+void func(){
+printf("hello world");
+int i=0;i++;
+};
